@@ -1,4 +1,4 @@
-(defproject clj-umi "0.0.1"
+(defproject net.clojars.kesha1225/clj-umi "0.0.4"
   :description "Umi wrapper for clojure"
   :repositories [["github" {:url           "https://maven.pkg.github.com/RoyFractal/clj-umi"
                             :username      "private-token"

@@ -1,0 +1,4 @@
+{:aliases {:build {:deps       {io.github.clojure/tools.build {:git/tag "v0.6.2"
+                                                               :git/sha "226fb52"}
+                                slipset/deps-deploy           {:mvn/version "RELEASE"}}
+                   :ns-default build}}}
