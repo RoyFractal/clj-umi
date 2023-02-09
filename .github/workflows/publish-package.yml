@@ -2,10 +2,6 @@ name: publish package
 on:
   workflow_dispatch:
 
-defaults:
-  run:
-    working-directory: ./src/clj-umi
-
 jobs:
   publish:
     runs-on: ubuntu-latest
